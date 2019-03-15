@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<chroma>
+	<color>0.2039216,0.7137255,0.6156863</color>
+	<hue_threshold>0.05946884</hue_threshold>
+	<min_shade_darkness>0.3595513</min_shade_darkness>
+	<max_shade_darkness>0.9784714</max_shade_darkness>
+	<min_saturation>0.09697914</min_saturation>
+	<max_saturation>1</max_saturation>
+	<min_lightness>0.08447571</min_lightness>
+	<max_lightness>0.9097023</max_lightness>
+</chroma>
