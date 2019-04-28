@@ -11,4 +11,5 @@ An photo booth application is using an Logitech carl zeiss tessar webcam.  The a
 	-S: Save
 	-L: Load 
 
-
+## Update:
+	-Updated to use a webcam insted of Kinect as camera.
